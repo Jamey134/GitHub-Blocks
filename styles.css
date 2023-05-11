@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    color: black;
+}
+img{
+    height: 300px;
+}
+.col {
+    display: flex;
+    justify-content: space-around;
+}
+
+.background1 {
+    background-color: blue;
+    margin-top: 30px;
+    padding: 20px;
+}
+
+.background2 {
+    background-color: blueviolet;
+    padding: 30px;
+    margin-top: 20px;
+}
+
+.background3 {
+    background-color: turquoise;
+    padding: 30px;
+    margin-top: 20px;
+}
